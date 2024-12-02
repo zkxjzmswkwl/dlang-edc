@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Richard Castle"
+	],
+	"copyright": "Copyright © 1913",
+	"description": "Everyday carry",
+	"license": "open to interpretation",
+	"name": "edc",
+	"libs": [
+		"user32"
+	]
+}
